@@ -35,7 +35,7 @@ Keys pressed: \<up\>\<up\>\<up\>\<up\>\<enter\>, \<up\>\<up\>\<up\>\<up\>\<enter
 
 I used the up arrows to move to a previous command to run `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`. Then I went up again to run `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
 
-**Step 6: Commit and push the resulting change to your Github account **
+Step 6: Commit and push the resulting change to your Github account
 
 ![Image](Step6.png)
 
