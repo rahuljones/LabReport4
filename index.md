@@ -1,4 +1,4 @@
-# Lab Report 2
+# Lab Report 4
 
 **Step 1: Log into ieng6**
 ![Image](Step1.png)
@@ -33,6 +33,11 @@ I typed in `nano L` and tabbed in then filled it in to `nano ListExamples.java`.
 
 Keys pressed: \<up\>\<up\>\<up\>\<up\>\<enter\>, \<up\>\<up\>\<up\>\<up\>\<enter\>
 
-I used the up arrows to move to a previous command to run `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`. Then I went up again to run `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`\
+I used the up arrows to move to a previous command to run `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`. Then I went up again to run `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
 
 **Step 6: Commit and push the resulting change to your Github account **
+![Image](Step6.png)
+
+Keys pressed: git add ListExamples.java \<enter\>, git commit \<enter\>, git push \<enter\>
+
+I used the git add `ListExamples.java`, `git commit`, and `git push` lines to push the changes to my Github account. 
